@@ -1,2 +1,2 @@
 # Simple-Chatty-Bot
- My learning project #1
+My very first learning project #1
